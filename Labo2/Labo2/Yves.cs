@@ -13,7 +13,9 @@ namespace Labo2
 
         public int AddNumbers()
         {
+            string isThisCorrect = "Nope";
             int som = Getal1 + Getal2;
+
 
             return som;
         }
