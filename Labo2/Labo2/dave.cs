@@ -14,5 +14,10 @@ namespace Labo2
         {
             return what;
         }
+
+        public void Writeline()
+        {
+            Console.WriteLine("Dit is mijn methode!");
+        }
     }
 }
