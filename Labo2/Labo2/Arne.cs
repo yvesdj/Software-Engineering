@@ -8,6 +8,9 @@ namespace Labo2
 {
     class Arne
     {
-
+        public void Writeline()
+        {
+            Console.WriteLine("Dit is mijn methode!");
+        }
     }
 }
