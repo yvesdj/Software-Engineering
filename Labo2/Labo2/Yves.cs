@@ -22,6 +22,11 @@ namespace Labo2
             return som;
         }
 
+        public void MagicFunction()
+        {
+
+        }
+
 	public string SaySome(string what){
 		return what;
 	}
